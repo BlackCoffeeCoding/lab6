@@ -6,5 +6,10 @@ public class Main {
         System.out.print("Это добавлено в ветке main 3");
         System.out.print("Это добавлено в ветке main 4");
         System.out.print("Финальное изменение");
+        System.out.print("Это добавлено в ветке dev");
+        System.out.print("Это добавлено в ветке dev 1");
+        System.out.print("Это добавлено в ветке dev 2");
+        System.out.print("Это добавлено в ветке dev 3");
+        System.out.print("Это добавлено в ветке dev 4");
     }
 }
